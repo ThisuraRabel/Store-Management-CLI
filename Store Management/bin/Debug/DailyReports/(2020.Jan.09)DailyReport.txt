@@ -1,0 +1,19 @@
+Today is: Thu
+Date :2020/Jan/09
+First Transaction Time :11:43:19
+
+Cash have at start of the day:                      7000
+
+
+  Time         ItemName        UPrice   Quantity  TPrice
+
+11:43:22    huhuhu----------     767        4       3068
+11:43:33    huhuhu(in)--------------------------   98765
+11:43:44    gg(out)-----------------------------   -7659
+11:43:53    hyfrx-----------     865        3       2595
+
+........................................................
+Total Paid Amount:                                  7659
+Total Receved Amount:                             104428
+Cash Have At End Of The Day:                      103769
+........................................................

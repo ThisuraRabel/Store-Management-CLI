@@ -1,0 +1,2 @@
+
+Default Path : C:\Users\Diadomaxx\Documents\c++\hardware shop management\bin\Debug

@@ -1,0 +1,12 @@
+Date :2020/Feb/16            Time :16:03:50
+
+            Randina  Hardware,
+            No.21,Temple Road,
+               Moratumulla,
+                Moratuwa.
+
+ItemName          UPrice   Quantity   Price
+
+ huhuhu----------  5656        1       5656
+ Total                                 5656
+

@@ -1,0 +1,16 @@
+Today is: Mon
+Date :2020/Jan/06
+First Transaction Time :18:28:59
+
+Cash have at start of the day:                       666
+
+
+  Time         ItemName        UPrice   Quantity  TPrice
+
+18:29:02    ttt-------------      77        2        154
+
+........................................................
+Total Paid Amount:                                     0
+Total Receved Amount:                                154
+Cash Have At End Of The Day:                         820
+........................................................

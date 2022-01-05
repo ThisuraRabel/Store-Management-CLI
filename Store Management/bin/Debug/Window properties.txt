@@ -1,0 +1,7 @@
+Font size         : 60
+Font              : Consolas
+Background Colour : White
+Text Colour       : Black
+Cursor Size       : Small
+Edit Options      : all
+

@@ -1,0 +1,12 @@
+Date :2020/Jun/22            Time :19:06:59
+
+            Randina  Hardware,
+            No.21,Temple Road,
+               Moratumulla,
+                Moratuwa.
+
+ItemName          UPrice   Quantity   Price
+
+ something-------    30        2         60
+ Total                                   60
+

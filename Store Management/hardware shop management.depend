@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1578313602 source:c:\users\diadomaxx\documents\c++\hardware shop management\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+	<fstream>
+	<direct.h>
+	<ctime>
+	<conio.h>
+	<process.h>
+	<sstream>
+	<cstdio>
+	<string>
+	<stdlib.h>
+
+1578547434 source:c:\users\thisal\documents\c++\hardware shop management\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+	<fstream>
+	<direct.h>
+	<ctime>
+	<conio.h>
+	<process.h>
+	<sstream>
+	<cstdio>
+	<string>
+	<stdlib.h>
+
